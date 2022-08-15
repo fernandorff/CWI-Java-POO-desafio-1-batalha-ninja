@@ -6,7 +6,7 @@ import org.junit.Test;
 public class BatalhaNinjaTest {
 
     @Test
-    public void deveRetornarNinjaComJutsuMaisForteSeOsDoisGastamOMesmoChakraParaAtacar() {
+    public void deveRetornarNinjaComJutsuMaisForteSeOsDoisGastamOMesmoChakra() {
         Jutsu hasengan = new Jutsu("Hasengan", 3, 6);
         Jutsu chidori = new Jutsu("Chidori", 3, 5);
 
@@ -66,7 +66,7 @@ public class BatalhaNinjaTest {
     }
 
     @Test
-    public void deveRetornarSegundoNinjaComoVencedorQuandoEmpatar() {
+    public void deveRetornarPrimeiroNinjaComoVencedorQuandoEmpatar() {
         Jutsu chidori = new Jutsu("Chidori", 3, 5);
 
         Ninja sasuke = new Ninja("Sasuke", chidori);
