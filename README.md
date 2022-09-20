@@ -1,3 +1,7 @@
+### Avaliação do SonarQube
+![image](https://user-images.githubusercontent.com/101672271/191228266-d15eeea3-bb64-4941-906a-da0b05bfbde1.png)
+
+
 # Naruto - Batalha Ninja
 
 ![cover photo](https://s.aficionados.com.br/imagens/frases-iconicas-dos-personagens-de-naruto_f.jpg)
